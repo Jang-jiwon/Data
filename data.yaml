@@ -1,5 +1,5 @@
-train: /content/cowDetect/cow0602/train/images
-val:/content/cowDetect/cow0602/val/images
+train: /content/Data/cow0602/train/images
+val:/content/Data/cow0602/val/images
 
 nc: 1
 names: ['cow']
